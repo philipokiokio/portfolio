@@ -1,7 +1,7 @@
 ---
 title: "2021: Philip Okiokio’s Year of Kaizen"
 date: 2022-02-05T23:09:46+01:00
-draft: true
+draft: false
 ---
 
 > This is new for me, I loved the anonymity I had but I have decided to put myself out there, this might be the weirdest introduction you might have ever read, bear with me it gets better.

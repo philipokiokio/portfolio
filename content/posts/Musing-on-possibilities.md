@@ -1,7 +1,7 @@
 ---
 title: "Musing on Possibilities"
 date: 2022-02-05T09:26:57+01:00
-draft: true
+draft: false
 ---
 
 It Is the 31st December 2021, 21:28 and as I write this I am consumed with uncertainty, doubt and awe about the next years of life. I am musing on the achievable without losing my shit, to be honest.
