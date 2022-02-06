@@ -1,5 +1,4 @@
-[build]
- base = "philipokiokio/"
+
  
 [context.production.environment]
   HUGO_VERSION = "0.92.1"
