@@ -1,4 +1,4 @@
-baseURL = "https://philipokiokio.me"
+baseURL = "https://www.philipokiokio.me"
 title   = "Philip Okiokio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = "https//github.com/philipokiokio/portfolio"
+  # gitUrl = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
